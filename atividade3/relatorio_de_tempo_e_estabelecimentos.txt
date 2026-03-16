@@ -1,0 +1,269 @@
+Estabelecimentos encontrados: 262
+Tempo DOM: 0.1611s
+Tempo SAX: 0.0571s
+
+
+Estabelecimentos encontrados:
+
+Lat: -12.9823399, Lgt: -38.4552197, Tipo: post_office, Nome: Correios
+Lat: -12.9801633, Lgt: -38.4562718, Tipo: theatre, Nome: Teatro Casa do Comércio
+Lat: -12.9801933, Lgt: -38.4564012, Tipo: restaurant, Nome: Restaurante Casa do Comércio
+Lat: -12.9828769, Lgt: -38.4511997, Tipo: car, Nome: Fiori
+Lat: -12.9787335, Lgt: -38.4541865, Tipo: sports, Nome: Centauro
+Lat: -12.9780646, Lgt: -38.4545027, Tipo: cinema, Nome: Cinemark
+Lat: -12.9816263, Lgt: -38.4497793, Tipo: convenience, Nome: BR Mania
+Lat: -12.9826972, Lgt: -38.4545717, Tipo: fast_food, Nome: Império dos Lanches
+Lat: -12.9796373, Lgt: -38.4511108, Tipo: bank, Nome: Bradesco
+Lat: -12.9786897, Lgt: -38.4547944, Tipo: fast_food, Nome: Subway
+Lat: -12.9772290, Lgt: -38.4560429, Tipo: clothes, Nome: Renner
+Lat: -12.9795434, Lgt: -38.4534944, Tipo: department_store, Nome: Lojas Americanas
+Lat: -12.9777869, Lgt: -38.4554685, Tipo: department_store, Nome: Le Biscuit
+Lat: -12.9782678, Lgt: -38.4551574, Tipo: fast_food, Nome: McDonald's
+Lat: -12.9783567, Lgt: -38.4542830, Tipo: fast_food, Nome: Bob's
+Lat: -12.9792710, Lgt: -38.4534634, Tipo: houseware, Nome: Preçolandia
+Lat: -12.9838271, Lgt: -38.4535643, Tipo: bank, Nome: Banco Santander
+Lat: -12.9795582, Lgt: -38.4512300, Tipo: restaurant, Nome: Haus
+Lat: -12.9786778, Lgt: -38.4606441, Tipo: restaurant, Nome: Malagheta
+Lat: -12.9823920, Lgt: -38.4550283, Tipo: pharmacy, Nome: Farmácia Sumaré
+Lat: -12.9794381, Lgt: -38.4573256, Tipo: copyshop, Nome: Universitária
+Lat: -12.9827068, Lgt: -38.4510443, Tipo: furniture, Nome: Depósito de Sofá
+Lat: -12.9825202, Lgt: -38.4539084, Tipo: restaurant, Nome: Maria's
+Lat: -12.9837519, Lgt: -38.4538348, Tipo: bank, Nome: Bradesco
+Lat: -12.9817159, Lgt: -38.4542595, Tipo: stationery, Nome: Atlas Papelaria
+Lat: -12.9796396, Lgt: -38.4569290, Tipo: dentist, Nome: Clean 24h
+Lat: -12.9808670, Lgt: -38.4558934, Tipo: bank, Nome: Banco Santander
+Lat: -12.9839093, Lgt: -38.4534689, Tipo: car_rental, Nome: Localiza
+Lat: -12.9788926, Lgt: -38.4545997, Tipo: appliance, Nome: Magazine Luiza
+Lat: -12.9773046, Lgt: -38.4557183, Tipo: supermarket, Nome: Redemix
+Lat: -12.9825272, Lgt: -38.4556692, Tipo: parking, Nome: Central Park
+Lat: -12.9828351, Lgt: -38.4551913, Tipo: cafe, Nome: Seven Wonders Café
+Lat: -12.9828431, Lgt: -38.4551198, Tipo: clinic, Nome: Clínica José Amandio
+Lat: -12.9779921, Lgt: -38.4561159, Tipo: cafe, Nome: Nero Café
+Lat: -12.9790245, Lgt: -38.4534203, Tipo: cafe, Nome: Chez Café
+Lat: -12.9788389, Lgt: -38.4536965, Tipo: cafe, Nome: Clube do Café
+Lat: -12.9783823, Lgt: -38.4545368, Tipo: cafe, Nome: Pereira Café
+Lat: -12.9778669, Lgt: -38.4561839, Tipo: tea, Nome: Tea Shop
+Lat: -12.9785384, Lgt: -38.4552361, Tipo: health_food, Nome: Orgânico
+Lat: -12.9785384, Lgt: -38.4543054, Tipo: restaurant, Nome: Alecrim
+Lat: -12.9786560, Lgt: -38.4539165, Tipo: restaurant, Nome: Farid
+Lat: -12.9787631, Lgt: -38.4539487, Tipo: restaurant, Nome: Sal e Brasa
+Lat: -12.9789226, Lgt: -38.4538789, Tipo: restaurant, Nome: La Lupa
+Lat: -12.9788954, Lgt: -38.4547587, Tipo: department_store, Nome: Casas Bahia
+Lat: -12.9788720, Lgt: -38.4542566, Tipo: houseware, Nome: Camicado
+Lat: -12.9780945, Lgt: -38.4555497, Tipo: mobile_phone, Nome: VXCase
+Lat: -12.9780443, Lgt: -38.4549616, Tipo: restaurant, Nome: Orgânico
+Lat: -12.9783090, Lgt: -38.4558385, Tipo: clothes, Nome: Hering
+Lat: -12.9780577, Lgt: -38.4558041, Tipo: clothes, Nome: Malwee
+Lat: -12.9791233, Lgt: -38.4541225, Tipo: bureau_de_change, Nome: Confidence Câmbio
+Lat: -12.9792297, Lgt: -38.4537188, Tipo: bank, Nome: Banco do Brasil
+Lat: -12.9771688, Lgt: -38.4556722, Tipo: atm, Nome: Banco24Horas
+Lat: -12.9778390, Lgt: -38.4559851, Tipo: houseware, Nome: T Store
+Lat: -12.9774141, Lgt: -38.4555668, Tipo: electronics, Nome: Polishop
+Lat: -12.9781473, Lgt: -38.4549981, Tipo: coffee, Nome: Nespresso
+Lat: -12.9778256, Lgt: -38.4551563, Tipo: department_store, Nome: Fast Shop
+Lat: -12.9775776, Lgt: -38.4556584, Tipo: perfumery, Nome: O Boticário
+Lat: -12.9831917, Lgt: -38.4591999, Tipo: childcare, Nome: Pindorama
+Lat: -12.9788392, Lgt: -38.4535154, Tipo: bank, Nome: Caixa Econômica Federal
+Lat: -12.9779085, Lgt: -38.4552799, Tipo: clothes, Nome: Farm
+Lat: -12.9774578, Lgt: -38.4557887, Tipo: pharmacy, Nome: Drogaria São Paulo
+Lat: -12.9792977, Lgt: -38.4540853, Tipo: pharmacy, Nome: Pague Menos
+Lat: -12.9782265, Lgt: -38.4552365, Tipo: fast_food, Nome: Joy Pizza
+Lat: -12.9821088, Lgt: -38.4587637, Tipo: clinic, Nome: Itaigara Memorial
+Lat: -12.9794370, Lgt: -38.4524922, Tipo: dentist, Nome: Gruppo Orale
+Lat: -12.9828863, Lgt: -38.4583440, Tipo: interior_decoration, Nome: Tinelli Outdoor Living
+Lat: -12.9834609, Lgt: -38.4585777, Tipo: dentist, Nome: Odonto Daily
+Lat: -12.9838622, Lgt: -38.4578690, Tipo: shoes, Nome: Santa Lolla
+Lat: -12.9784288, Lgt: -38.4544229, Tipo: shoes, Nome: Dinni Calçados
+Lat: -12.9772619, Lgt: -38.4558932, Tipo: cafe, Nome: Casa Bauducco
+Lat: -12.9836239, Lgt: -38.4536821, Tipo: copyshop, Nome: Gráfica Universitária
+Lat: -12.9820065, Lgt: -38.4538382, Tipo: clinic, Nome: Mente & Phisio
+Lat: -12.9776495, Lgt: -38.4554056, Tipo: clothes, Nome: Mahalo
+Lat: -12.9780002, Lgt: -38.4562646, Tipo: toys, Nome: BMart
+Lat: -12.9781271, Lgt: -38.4560680, Tipo: toys, Nome: Ri Happy
+Lat: -12.9835788, Lgt: -38.4539784, Tipo: clinic, Nome: Clínica Osmilto Brandão
+Lat: -12.9820576, Lgt: -38.4590932, Tipo: computer, Nome: Login
+Lat: -12.9831350, Lgt: -38.4596965, Tipo: community_centre, Nome: Brinkaê
+Lat: -12.9829519, Lgt: -38.4595990, Tipo: restaurant, Nome: A Casa Vidal
+Lat: -12.9837650, Lgt: -38.4579367, Tipo: interior_decoration, Nome: Essence in home
+Lat: -12.9836543, Lgt: -38.4580570, Tipo: furniture, Nome: Líder
+Lat: -12.9828980, Lgt: -38.4588190, Tipo: interior_decoration, Nome: Bagdá
+Lat: -12.9827689, Lgt: -38.4588250, Tipo: interior_decoration, Nome: Kachepot
+Lat: -12.9824091, Lgt: -38.4588029, Tipo: mall, Nome: Espaço Conceito
+Lat: -12.9831495, Lgt: -38.4587775, Tipo: books, Nome: Disal Livraria
+Lat: -12.9833582, Lgt: -38.4586511, Tipo: interior_decoration, Nome: Empório Magma
+Lat: -12.9838298, Lgt: -38.4582735, Tipo: furniture, Nome: Natuzzi Italia
+Lat: -12.9790345, Lgt: -38.4578924, Tipo: restaurant, Nome: Barbacoa
+Lat: -12.9823603, Lgt: -38.4592519, Tipo: clinic, Nome: Instituto de Medicina Eficiente
+Lat: -12.9817670, Lgt: -38.4588221, Tipo: flooring, Nome: Bikatto Acabamentos
+Lat: -12.9782410, Lgt: -38.4554536, Tipo: furniture, Nome: Tok&Stok Studio
+Lat: -12.9777324, Lgt: -38.4556338, Tipo: cafe, Nome: Viva Gula
+Lat: -12.9790082, Lgt: -38.4536265, Tipo: restaurant, Nome: Mariposa
+Lat: -12.9798390, Lgt: -38.4524441, Tipo: cafe, Nome: Café do Chef
+Lat: -12.9789165, Lgt: -38.4605313, Tipo: fast_food, Nome: Subway
+Lat: -12.9787470, Lgt: -38.4544467, Tipo: health_food, Nome: Bio Mundo
+Lat: -12.9782934, Lgt: -38.4544218, Tipo: books, Nome: Leitura
+Lat: -12.9813250, Lgt: -38.4540296, Tipo: language_school, Nome: Beetools
+Lat: -12.9819037, Lgt: -38.4540015, Tipo: copyshop, Nome: Gráfica Registro
+Lat: -12.9818531, Lgt: -38.4539403, Tipo: restaurant, Nome: Terraço
+Lat: -12.9776536, Lgt: -38.4560062, Tipo: cafe, Nome: Healthy por Victoria Cintra
+Lat: -12.9783418, Lgt: -38.4555736, Tipo: bureau_de_change, Nome: Labor Câmbio
+Lat: -12.9786327, Lgt: -38.4536078, Tipo: restaurant, Nome: Madero
+Lat: -12.9785127, Lgt: -38.4537460, Tipo: fast_food, Nome: Spoleto
+Lat: -12.9786737, Lgt: -38.4534527, Tipo: restaurant, Nome: Oliva Gourmet
+Lat: -12.9788577, Lgt: -38.4532673, Tipo: restaurant, Nome: Tokai
+Lat: -12.9776388, Lgt: -38.4558162, Tipo: optician, Nome: Óticas Carol
+Lat: -12.9784700, Lgt: -38.4547845, Tipo: fashion_accessories, Nome: Chilli Beans
+Lat: -12.9775344, Lgt: -38.4561465, Tipo: musical_instrument, Nome: Urban Music
+Lat: -12.9783945, Lgt: -38.4549160, Tipo: cosmetics, Nome: L'Occitane
+Lat: -12.9786211, Lgt: -38.4546091, Tipo: sports, Nome: Adidas
+Lat: -12.9779082, Lgt: -38.4555060, Tipo: shoes, Nome: Havaianas
+Lat: -12.9793505, Lgt: -38.4524317, Tipo: clinic, Nome: Clínica Oral Imagem
+Lat: -12.9776741, Lgt: -38.4552780, Tipo: cosmetics, Nome: Natura
+Lat: -12.9791561, Lgt: -38.4532463, Tipo: clothes, Nome: C&A
+Lat: -12.9790131, Lgt: -38.4598542, Tipo: bank, Nome: Sicoob
+Lat: -12.9791526, Lgt: -38.4534380, Tipo: bed, Nome: Ortobom
+Lat: -12.9785843, Lgt: -38.4541547, Tipo: clothes, Nome: Lupo
+Lat: -12.9787195, Lgt: -38.4536792, Tipo: clothes, Nome: Marisa
+Lat: -12.9794047, Lgt: -38.4539717, Tipo: mobile_phone, Nome: iPlace
+Lat: -12.9785406, Lgt: -38.4549166, Tipo: mobile_phone, Nome: Xiaomi
+Lat: -12.9783590, Lgt: -38.4551696, Tipo: chocolate, Nome: Lindt
+Lat: -12.9781935, Lgt: -38.4545271, Tipo: restaurant, Nome: Meu Chapa
+Lat: -12.9777621, Lgt: -38.4561282, Tipo: clothes, Nome: Adidas Originals
+Lat: -12.9772594, Lgt: -38.4558220, Tipo: cosmetics, Nome: Avatim
+Lat: -12.9782098, Lgt: -38.4559685, Tipo: clothes, Nome: Hering Kids
+Lat: -12.9789799, Lgt: -38.4531424, Tipo: shoes, Nome: Santa Lolla
+Lat: -12.9797347, Lgt: -38.4535939, Tipo: sports, Nome: Decathlon
+Lat: -12.9777333, Lgt: -38.4562937, Tipo: department_store, Nome: Freitas Varejo
+Lat: -12.9775060, Lgt: -38.4559234, Tipo: shoes, Nome: Crocs
+Lat: -12.9777662, Lgt: -38.4563924, Tipo: clothes, Nome: Studio Z
+Lat: -12.9795163, Lgt: -38.4538416, Tipo: fast_food, Nome: Baby Beef Burger
+Lat: -12.9793893, Lgt: -38.4536845, Tipo: restaurant, Nome: Divino Fogão
+Lat: -12.9790493, Lgt: -38.4543484, Tipo: beauty, Nome: Espaçolaser
+Lat: -12.9787278, Lgt: -38.4551634, Tipo: clothes, Nome: Calvin Klein
+Lat: -12.9788619, Lgt: -38.4549395, Tipo: clothes, Nome: Lacoste
+Lat: -12.9784939, Lgt: -38.4555491, Tipo: clothes, Nome: Armani Exchange
+Lat: -12.9784151, Lgt: -38.4553522, Tipo: mobile_phone, Nome: Vivo
+Lat: -12.9784860, Lgt: -38.4550986, Tipo: mobile_phone, Nome: TIM
+Lat: -12.9774582, Lgt: -38.4556908, Tipo: beauty, Nome: Depyl Care
+Lat: -12.9777726, Lgt: -38.4553229, Tipo: clothes, Nome: Track&Field
+Lat: -12.9788982, Lgt: -38.4544516, Tipo: clothes, Nome: Live!
+Lat: -12.9784310, Lgt: -38.4546683, Tipo: ice_cream, Nome: Bacio di Latte
+Lat: -12.9787556, Lgt: -38.4540739, Tipo: cafe, Nome: Café Feito a Grão
+Lat: -12.9806159, Lgt: -38.4619203, Tipo: cafe, Nome: Café 638
+Lat: -12.9816206, Lgt: -38.4590891, Tipo: community_centre, Nome: Na Selva
+Lat: -12.9816831, Lgt: -38.4592021, Tipo: clothes, Nome: Costa Tropical
+Lat: -12.9793279, Lgt: -38.4575919, Tipo: restaurant, Nome: Urban Sushi
+Lat: -12.9787563, Lgt: -38.4537958, Tipo: household_linen, Nome: Artex
+Lat: -12.9780185, Lgt: -38.4551151, Tipo: jewelry, Nome: Swarovski
+Lat: -12.9785569, Lgt: -38.4540100, Tipo: clothes, Nome: Via Veneto
+Lat: -12.9785988, Lgt: -38.4544839, Tipo: clothes, Nome: Brooksfield
+Lat: -12.9785953, Lgt: -38.4540297, Tipo: shoes, Nome: Sergio's
+Lat: -12.9784629, Lgt: -38.4541352, Tipo: beauty, Nome: Esmaltale
+Lat: -12.9780710, Lgt: -38.4552816, Tipo: restaurant, Nome: Cantina Volpi
+Lat: -12.9791437, Lgt: -38.4539840, Tipo: chocolate, Nome: Dengo
+Lat: -12.9790511, Lgt: -38.4550116, Tipo: fast_food, Nome: Beiju Mix
+Lat: -12.9775207, Lgt: -38.4555014, Tipo: cosmetics, Nome: Mahogany
+Lat: -12.9781349, Lgt: -38.4556624, Tipo: beauty, Nome: Depyl Action
+Lat: -12.9783440, Lgt: -38.4556945, Tipo: household_linen, Nome: MMartan
+Lat: -12.9787118, Lgt: -38.4545472, Tipo: fast_food, Nome: Cazolita
+Lat: -12.9787310, Lgt: -38.4547127, Tipo: furniture, Nome: MadeiraMadeira
+Lat: -12.9785690, Lgt: -38.4547998, Tipo: optician, Nome: Óticas Pupila
+Lat: -12.9778611, Lgt: -38.4550816, Tipo: fast_food, Nome: Oakberry Açaí bowls
+Lat: -12.9781213, Lgt: -38.4546962, Tipo: optician, Nome: Ray-Ban
+Lat: -12.9778988, Lgt: -38.4557250, Tipo: clothes, Nome: Hope
+Lat: -12.9777086, Lgt: -38.4547829, Tipo: restaurant, Nome: 33
+Lat: -12.9779610, Lgt: -38.4546549, Tipo: restaurant, Nome: Camarada
+Lat: -12.9822537, Lgt: -38.4579305, Tipo: wine, Nome: Vai Vinho
+Lat: -12.9822798, Lgt: -38.4580173, Tipo: restaurant, Nome: Fira
+Lat: -12.9825729, Lgt: -38.4584558, Tipo: furniture, Nome: Florense
+Lat: -12.9825819, Lgt: -38.4578722, Tipo: hairdresser, Nome: Keiko Cabeleireiros
+Lat: -12.9782081, Lgt: -38.4547497, Tipo: chocolate, Nome: Caracol
+Lat: -12.9810300, Lgt: -38.4538786, Tipo: cafe, Nome: Seven Wonders Café
+Lat: -12.9789732, Lgt: -38.4604784, Tipo: restaurant, Nome: Caza - cozinha de afeto
+Lat: -12.9789861, Lgt: -38.4606701, Tipo: clothes, Nome: atm
+Lat: -12.9790546, Lgt: -38.4606397, Tipo: copyshop, Nome: Nova Solução Digital
+Lat: -12.9791388, Lgt: -38.4606008, Tipo: wine, Nome: ivini
+Lat: -12.9788474, Lgt: -38.4604024, Tipo: restaurant, Nome: Na Brasa Express
+Lat: -12.9789898, Lgt: -38.4608704, Tipo: cafe, Nome: Seven Wonders Café
+Lat: -12.9788326, Lgt: -38.4605011, Tipo: restaurant, Nome: Kyoto Sushi
+Lat: -12.9790407, Lgt: -38.4604214, Tipo: restaurant, Nome: Neko Neko
+Lat: -12.9787762, Lgt: -38.4602705, Tipo: dentist, Nome: Central do Dente
+Lat: -12.9788909, Lgt: -38.4606283, Tipo: cafe, Nome: koalas
+Lat: -12.9790962, Lgt: -38.4609691, Tipo: optician, Nome: Óticas Carol
+Lat: -12.9791314, Lgt: -38.4608428, Tipo: lottery, Nome: Mundo da Sorte
+Lat: -12.9792519, Lgt: -38.4609784, Tipo: cafe, Nome: Tivoli Café
+Lat: -12.9792175, Lgt: -38.4610950, Tipo: bank, Nome: Caixa Econômica Federal
+Lat: -12.9793552, Lgt: -38.4611780, Tipo: cafe, Nome: Café São Diogo
+Lat: -12.9794068, Lgt: -38.4613105, Tipo: chocolate, Nome: Cacau Show
+Lat: -12.9794877, Lgt: -38.4610437, Tipo: optician, Nome: Óticas Pupila
+Lat: -12.9792192, Lgt: -38.4612699, Tipo: convenience, Nome: Delli
+Lat: -12.9791107, Lgt: -38.4611533, Tipo: fast_food, Nome: Cosechas
+Lat: -12.9788887, Lgt: -38.4609483, Tipo: restaurant, Nome: Oshi
+Lat: -12.9786614, Lgt: -38.4608300, Tipo: beauty, Nome: Espaçolaser
+Lat: -12.9788986, Lgt: -38.4617461, Tipo: cafe, Nome: Mozzafiato Café
+Lat: -12.9795179, Lgt: -38.4611665, Tipo: health_food, Nome: Amoraterra
+Lat: -12.9815652, Lgt: -38.4551565, Tipo: cafe, Nome: Mais1 Café
+Lat: -12.9839384, Lgt: -38.4532903, Tipo: bank, Nome: Sicredi
+Lat: -12.9802413, Lgt: -38.4511031, Tipo: bookmaker, Nome: FTD Educação
+Lat: -12.9793225, Lgt: -38.4538376, Tipo: sports, Nome: Casa Esportiva
+Lat: -12.9816666, Lgt: -38.4542190, Tipo: restaurant, Nome: Da Horta
+Lat: -12.9781668, Lgt: -38.4543959, Tipo: cafe, Nome: Seven Wonders Café
+Lat: -12.9802038, Lgt: -38.4514369, Tipo: cafe, Nome: DuckBill Cookies & Coffee
+Lat: -12.9792299, Lgt: -38.4517152, Tipo: car, Nome: Fiori
+Lat: -12.9793238, Lgt: -38.4515655, Tipo: car, Nome: Bremen
+Lat: -12.9818087, Lgt: -38.4498016, Tipo: cafe, Nome: Vovó Dalva
+Lat: -12.9790661, Lgt: -38.4548527, Tipo: restaurant, Nome: Outback Steakhouse
+Lat: -12.9823234, Lgt: -38.4542912, Tipo: bank, Nome: Banco Santander
+Lat: -12.9795169, Lgt: -38.4513990, Tipo: restaurant, Nome: Só Sabor
+Lat: -12.9794517, Lgt: -38.4514105, Tipo: money_lender, Nome: BB Cred
+Lat: -12.9806364, Lgt: -38.4504465, Tipo: clothes, Nome: Mandacaru
+Lat: -12.9788543, Lgt: -38.4550649, Tipo: fast_food, Nome: Contém Churros
+Lat: -12.9776773, Lgt: -38.4558952, Tipo: fast_food, Nome: Coxa Coxinha
+Lat: -12.9829714, Lgt: -38.4551470, Tipo: clinic, Nome: Clínica Gestar Psi
+Lat: -12.9780177, Lgt: -38.4548027, Tipo: clothes, Nome: Amaro
+Lat: -12.9793758, Lgt: -38.4610194, Tipo: clinic, Nome: Clínica Osmilto Brandão
+Lat: -12.9786131, Lgt: -38.4543245, Tipo: restaurant, Nome: Healthy Salad Bar
+Lat: -12.9790139, Lgt: -38.4603415, Tipo: restaurant, Nome: Napoli
+Lat: -12.9784651, Lgt: -38.4554693, Tipo: clothes, Nome: Calzedonia
+Lat: -12.9822473, Lgt: -38.4591640, Tipo: clothes, Nome: Track&Field
+Lat: -12.9776290, Lgt: -38.4561168, Tipo: tea, Nome: Moncloa
+Lat: -12.9779906, Lgt: -38.4547382, Tipo: jewelry, Nome: Vivara
+Lat: -12.9779099, Lgt: -38.4558885, Tipo: jewelry, Nome: Life Vivara
+Lat: -12.9825361, Lgt: -38.4587937, Tipo: supermarket, Nome: Loja Elettromec Salvador
+Lat: -12.9793009, Lgt: -38.4533325, Tipo: cafe, Nome: Havanna
+Lat: -12.9787839, Lgt: -38.4543543, Tipo: restaurant, Nome: Casa Graviola
+Lat: -12.9835854, Lgt: -38.4538978, Tipo: clothes, Nome: A Burguesa - Roupas cristãs
+Lat: -12.9782319, Lgt: -38.4548697, Tipo: shoes, Nome: Melissa
+Lat: -12.9782784, Lgt: -38.4550340, Tipo: shoes, Nome: Luz da Lua
+Lat: -12.9786062, Lgt: -38.4550985, Tipo: clinic, Nome: Amo Vacinas
+Lat: -12.9782886, Lgt: -38.4547546, Tipo: clinic, Nome: Clivale
+Lat: -12.9784452, Lgt: -38.4557279, Tipo: clothes, Nome: Colcci
+Lat: -12.9789086, Lgt: -38.4543384, Tipo: shoes, Nome: Constance
+Lat: -12.9791548, Lgt: -38.4543846, Tipo: clothes, Nome: Damyller
+Lat: -12.9788813, Lgt: -38.4540426, Tipo: travel_agency, Nome: CVC
+Lat: -12.9837976, Lgt: -38.4603750, Tipo: clothes, Nome: Track&Field
+Lat: -12.9808402, Lgt: -38.4587381, Tipo: pharmacy, Nome: Pague Menos
+Lat: -12.9779761, Lgt: -38.4559657, Tipo: sports, Nome: Loja do Bahia
+Lat: -12.9773188, Lgt: -38.4559674, Tipo: cosmetics, Nome: Amávia
+Lat: -12.9792170, Lgt: -38.4523500, Tipo: travel_agency, Nome: PASSO DE ESTRADA LTDA
+Lat: -12.9791314, Lgt: -38.4535872, Tipo: ice_cream, Nome: Gelato Borelli
+Lat: -12.9837155, Lgt: -38.4563968, Tipo: kindergarten, Nome: Escola Casa da Infância
+Lat: -12.9793111, Lgt: -38.4550968, Tipo: bicycle_rental, Nome: Salvador Shopping
+Lat: -12.9786870, Lgt: -38.4548943, Tipo: restaurant, Nome: Lotti
+Lat: -12.9792485, Lgt: -38.4535514, Tipo: optician, Nome: Zerezes
+Lat: -12.9821915, Lgt: -38.4526837, Tipo: bar, Nome: Toca do Cobra
+Lat: -12.9788078, Lgt: -38.4543206, Tipo: pastry, Nome: Casa de Bolos
+Lat: -12.9789676, Lgt: -38.4545076, Tipo: optician, Nome: Ótica Chilli Beans
+Lat: -12.9792149, Lgt: -38.4543593, Tipo: sports, Nome: Hoka
+Lat: -12.9792156, Lgt: -38.4541883, Tipo: clothes, Nome: Puma
+Lat: -12.9787425, Lgt: -38.4549188, Tipo: cafe, Nome: Empório Coisas de Minas
+Lat: -12.9785975, Lgt: -38.4548725, Tipo: restaurant, Nome: Miss Kōh
+Lat: -12.9818853, Lgt: -38.4540577, Tipo: massage, Nome: Hilda Barbosa Massoterapia
+Lat: -12.9784401, Lgt: -38.4586146, Tipo: hairdresser, Nome: Barberstyle
+Lat: -12.9792277, Lgt: -38.4523131, Tipo: dentist, Nome: Consultorio Dr Giovanni Nascimento
+Lat: -12.9821930, Lgt: -38.4583654, Tipo: cafe, Nome: Healthy por Victoria Cintra
+Lat: -12.9784487, Lgt: -38.4612287, Tipo: bicycle_rental, Nome: Metrô Rodoviária
+Lat: -12.9791333, Lgt: -38.4517399, Tipo: bicycle_rental, Nome: Hospital Sarah
+Lat: -12.9771341, Lgt: -38.4593330, Tipo: hardware, Nome: Bikatto
+Lat: -12.9775522, Lgt: -38.4591277, Tipo: car_parts, Nome: O Varejão
+Lat: -12.9788260, Lgt: -38.4615943, Tipo: bank, Nome: Banco Safra
