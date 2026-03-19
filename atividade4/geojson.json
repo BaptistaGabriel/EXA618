@@ -1,0 +1,3935 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4552197,
+          -12.9823399
+        ]
+      },
+      "properties": {
+        "nome": "Correios",
+        "tipo": "post_office,"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4562718,
+          -12.9801633
+        ]
+      },
+      "properties": {
+        "nome": "Teatro Casa do Comércio",
+        "tipo": "theatre,"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4564012,
+          -12.9801933
+        ]
+      },
+      "properties": {
+        "nome": "Restaurante Casa do Comércio",
+        "tipo": "restaurant,"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4511997,
+          -12.9828769
+        ]
+      },
+      "properties": {
+        "nome": "Fiori",
+        "tipo": "car,"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4541865,
+          -12.9787335
+        ]
+      },
+      "properties": {
+        "nome": "Centauro",
+        "tipo": "sports,"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4545027,
+          -12.9780646
+        ]
+      },
+      "properties": {
+        "nome": "Cinemark",
+        "tipo": "cinema,"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4497793,
+          -12.9816263
+        ]
+      },
+      "properties": {
+        "nome": "BR Mania",
+        "tipo": "convenience,"
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4545717,
+          -12.9826972
+        ]
+      },
+      "properties": {
+        "nome": "Império dos Lanches",
+        "tipo": "fast_food,"
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4511108,
+          -12.9796373
+        ]
+      },
+      "properties": {
+        "nome": "Bradesco",
+        "tipo": "bank,"
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4547944,
+          -12.9786897
+        ]
+      },
+      "properties": {
+        "nome": "Subway",
+        "tipo": "fast_food,"
+      },
+      "id": 9
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4560429,
+          -12.977229
+        ]
+      },
+      "properties": {
+        "nome": "Renner",
+        "tipo": "clothes,"
+      },
+      "id": 10
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4534944,
+          -12.9795434
+        ]
+      },
+      "properties": {
+        "nome": "Lojas Americanas",
+        "tipo": "department_store,"
+      },
+      "id": 11
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4554685,
+          -12.9777869
+        ]
+      },
+      "properties": {
+        "nome": "Le Biscuit",
+        "tipo": "department_store,"
+      },
+      "id": 12
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4551574,
+          -12.9782678
+        ]
+      },
+      "properties": {
+        "nome": "McDonald's",
+        "tipo": "fast_food,"
+      },
+      "id": 13
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.454283,
+          -12.9783567
+        ]
+      },
+      "properties": {
+        "nome": "Bob's",
+        "tipo": "fast_food,"
+      },
+      "id": 14
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4534634,
+          -12.979271
+        ]
+      },
+      "properties": {
+        "nome": "Preçolandia",
+        "tipo": "houseware,"
+      },
+      "id": 15
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4535643,
+          -12.9838271
+        ]
+      },
+      "properties": {
+        "nome": "Banco Santander",
+        "tipo": "bank,"
+      },
+      "id": 16
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.45123,
+          -12.9795582
+        ]
+      },
+      "properties": {
+        "nome": "Haus",
+        "tipo": "restaurant,"
+      },
+      "id": 17
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4606441,
+          -12.9786778
+        ]
+      },
+      "properties": {
+        "nome": "Malagheta",
+        "tipo": "restaurant,"
+      },
+      "id": 18
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4550283,
+          -12.982392
+        ]
+      },
+      "properties": {
+        "nome": "Farmácia Sumaré",
+        "tipo": "pharmacy,"
+      },
+      "id": 19
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4573256,
+          -12.9794381
+        ]
+      },
+      "properties": {
+        "nome": "Universitária",
+        "tipo": "copyshop,"
+      },
+      "id": 20
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4510443,
+          -12.9827068
+        ]
+      },
+      "properties": {
+        "nome": "Depósito de Sofá",
+        "tipo": "furniture,"
+      },
+      "id": 21
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4539084,
+          -12.9825202
+        ]
+      },
+      "properties": {
+        "nome": "Maria's",
+        "tipo": "restaurant,"
+      },
+      "id": 22
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4538348,
+          -12.9837519
+        ]
+      },
+      "properties": {
+        "nome": "Bradesco",
+        "tipo": "bank,"
+      },
+      "id": 23
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4542595,
+          -12.9817159
+        ]
+      },
+      "properties": {
+        "nome": "Atlas Papelaria",
+        "tipo": "stationery,"
+      },
+      "id": 24
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.456929,
+          -12.9796396
+        ]
+      },
+      "properties": {
+        "nome": "Clean 24h",
+        "tipo": "dentist,"
+      },
+      "id": 25
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4558934,
+          -12.980867
+        ]
+      },
+      "properties": {
+        "nome": "Banco Santander",
+        "tipo": "bank,"
+      },
+      "id": 26
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4534689,
+          -12.9839093
+        ]
+      },
+      "properties": {
+        "nome": "Localiza",
+        "tipo": "car_rental,"
+      },
+      "id": 27
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4545997,
+          -12.9788926
+        ]
+      },
+      "properties": {
+        "nome": "Magazine Luiza",
+        "tipo": "appliance,"
+      },
+      "id": 28
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4557183,
+          -12.9773046
+        ]
+      },
+      "properties": {
+        "nome": "Redemix",
+        "tipo": "supermarket,"
+      },
+      "id": 29
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4556692,
+          -12.9825272
+        ]
+      },
+      "properties": {
+        "nome": "Central Park",
+        "tipo": "parking,"
+      },
+      "id": 30
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4551913,
+          -12.9828351
+        ]
+      },
+      "properties": {
+        "nome": "Seven Wonders Café",
+        "tipo": "cafe,"
+      },
+      "id": 31
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4551198,
+          -12.9828431
+        ]
+      },
+      "properties": {
+        "nome": "Clínica José Amandio",
+        "tipo": "clinic,"
+      },
+      "id": 32
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4561159,
+          -12.9779921
+        ]
+      },
+      "properties": {
+        "nome": "Nero Café",
+        "tipo": "cafe,"
+      },
+      "id": 33
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4534203,
+          -12.9790245
+        ]
+      },
+      "properties": {
+        "nome": "Chez Café",
+        "tipo": "cafe,"
+      },
+      "id": 34
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4536965,
+          -12.9788389
+        ]
+      },
+      "properties": {
+        "nome": "Clube do Café",
+        "tipo": "cafe,"
+      },
+      "id": 35
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4545368,
+          -12.9783823
+        ]
+      },
+      "properties": {
+        "nome": "Pereira Café",
+        "tipo": "cafe,"
+      },
+      "id": 36
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4561839,
+          -12.9778669
+        ]
+      },
+      "properties": {
+        "nome": "Tea Shop",
+        "tipo": "tea,"
+      },
+      "id": 37
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4552361,
+          -12.9785384
+        ]
+      },
+      "properties": {
+        "nome": "Orgânico",
+        "tipo": "health_food,"
+      },
+      "id": 38
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4543054,
+          -12.9785384
+        ]
+      },
+      "properties": {
+        "nome": "Alecrim",
+        "tipo": "restaurant,"
+      },
+      "id": 39
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4539165,
+          -12.978656
+        ]
+      },
+      "properties": {
+        "nome": "Farid",
+        "tipo": "restaurant,"
+      },
+      "id": 40
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4539487,
+          -12.9787631
+        ]
+      },
+      "properties": {
+        "nome": "Sal e Brasa",
+        "tipo": "restaurant,"
+      },
+      "id": 41
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4538789,
+          -12.9789226
+        ]
+      },
+      "properties": {
+        "nome": "La Lupa",
+        "tipo": "restaurant,"
+      },
+      "id": 42
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4547587,
+          -12.9788954
+        ]
+      },
+      "properties": {
+        "nome": "Casas Bahia",
+        "tipo": "department_store,"
+      },
+      "id": 43
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4542566,
+          -12.978872
+        ]
+      },
+      "properties": {
+        "nome": "Camicado",
+        "tipo": "houseware,"
+      },
+      "id": 44
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4555497,
+          -12.9780945
+        ]
+      },
+      "properties": {
+        "nome": "VXCase",
+        "tipo": "mobile_phone,"
+      },
+      "id": 45
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4549616,
+          -12.9780443
+        ]
+      },
+      "properties": {
+        "nome": "Orgânico",
+        "tipo": "restaurant,"
+      },
+      "id": 46
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4558385,
+          -12.978309
+        ]
+      },
+      "properties": {
+        "nome": "Hering",
+        "tipo": "clothes,"
+      },
+      "id": 47
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4558041,
+          -12.9780577
+        ]
+      },
+      "properties": {
+        "nome": "Malwee",
+        "tipo": "clothes,"
+      },
+      "id": 48
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4541225,
+          -12.9791233
+        ]
+      },
+      "properties": {
+        "nome": "Confidence Câmbio",
+        "tipo": "bureau_de_change,"
+      },
+      "id": 49
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4537188,
+          -12.9792297
+        ]
+      },
+      "properties": {
+        "nome": "Banco do Brasil",
+        "tipo": "bank,"
+      },
+      "id": 50
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4556722,
+          -12.9771688
+        ]
+      },
+      "properties": {
+        "nome": "Banco24Horas",
+        "tipo": "atm,"
+      },
+      "id": 51
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4559851,
+          -12.977839
+        ]
+      },
+      "properties": {
+        "nome": "T Store",
+        "tipo": "houseware,"
+      },
+      "id": 52
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4555668,
+          -12.9774141
+        ]
+      },
+      "properties": {
+        "nome": "Polishop",
+        "tipo": "electronics,"
+      },
+      "id": 53
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4549981,
+          -12.9781473
+        ]
+      },
+      "properties": {
+        "nome": "Nespresso",
+        "tipo": "coffee,"
+      },
+      "id": 54
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4551563,
+          -12.9778256
+        ]
+      },
+      "properties": {
+        "nome": "Fast Shop",
+        "tipo": "department_store,"
+      },
+      "id": 55
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4556584,
+          -12.9775776
+        ]
+      },
+      "properties": {
+        "nome": "O Boticário",
+        "tipo": "perfumery,"
+      },
+      "id": 56
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4591999,
+          -12.9831917
+        ]
+      },
+      "properties": {
+        "nome": "Pindorama",
+        "tipo": "childcare,"
+      },
+      "id": 57
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4535154,
+          -12.9788392
+        ]
+      },
+      "properties": {
+        "nome": "Caixa Econômica Federal",
+        "tipo": "bank,"
+      },
+      "id": 58
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4552799,
+          -12.9779085
+        ]
+      },
+      "properties": {
+        "nome": "Farm",
+        "tipo": "clothes,"
+      },
+      "id": 59
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4557887,
+          -12.9774578
+        ]
+      },
+      "properties": {
+        "nome": "Drogaria São Paulo",
+        "tipo": "pharmacy,"
+      },
+      "id": 60
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4540853,
+          -12.9792977
+        ]
+      },
+      "properties": {
+        "nome": "Pague Menos",
+        "tipo": "pharmacy,"
+      },
+      "id": 61
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4552365,
+          -12.9782265
+        ]
+      },
+      "properties": {
+        "nome": "Joy Pizza",
+        "tipo": "fast_food,"
+      },
+      "id": 62
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4587637,
+          -12.9821088
+        ]
+      },
+      "properties": {
+        "nome": "Itaigara Memorial",
+        "tipo": "clinic,"
+      },
+      "id": 63
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4524922,
+          -12.979437
+        ]
+      },
+      "properties": {
+        "nome": "Gruppo Orale",
+        "tipo": "dentist,"
+      },
+      "id": 64
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.458344,
+          -12.9828863
+        ]
+      },
+      "properties": {
+        "nome": "Tinelli Outdoor Living",
+        "tipo": "interior_decoration,"
+      },
+      "id": 65
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4585777,
+          -12.9834609
+        ]
+      },
+      "properties": {
+        "nome": "Odonto Daily",
+        "tipo": "dentist,"
+      },
+      "id": 66
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.457869,
+          -12.9838622
+        ]
+      },
+      "properties": {
+        "nome": "Santa Lolla",
+        "tipo": "shoes,"
+      },
+      "id": 67
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4544229,
+          -12.9784288
+        ]
+      },
+      "properties": {
+        "nome": "Dinni Calçados",
+        "tipo": "shoes,"
+      },
+      "id": 68
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4558932,
+          -12.9772619
+        ]
+      },
+      "properties": {
+        "nome": "Casa Bauducco",
+        "tipo": "cafe,"
+      },
+      "id": 69
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4536821,
+          -12.9836239
+        ]
+      },
+      "properties": {
+        "nome": "Gráfica Universitária",
+        "tipo": "copyshop,"
+      },
+      "id": 70
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4538382,
+          -12.9820065
+        ]
+      },
+      "properties": {
+        "nome": "Mente & Phisio",
+        "tipo": "clinic,"
+      },
+      "id": 71
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4554056,
+          -12.9776495
+        ]
+      },
+      "properties": {
+        "nome": "Mahalo",
+        "tipo": "clothes,"
+      },
+      "id": 72
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4562646,
+          -12.9780002
+        ]
+      },
+      "properties": {
+        "nome": "BMart",
+        "tipo": "toys,"
+      },
+      "id": 73
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.456068,
+          -12.9781271
+        ]
+      },
+      "properties": {
+        "nome": "Ri Happy",
+        "tipo": "toys,"
+      },
+      "id": 74
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4539784,
+          -12.9835788
+        ]
+      },
+      "properties": {
+        "nome": "Clínica Osmilto Brandão",
+        "tipo": "clinic,"
+      },
+      "id": 75
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4590932,
+          -12.9820576
+        ]
+      },
+      "properties": {
+        "nome": "Login",
+        "tipo": "computer,"
+      },
+      "id": 76
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4596965,
+          -12.983135
+        ]
+      },
+      "properties": {
+        "nome": "Brinkaê",
+        "tipo": "community_centre,"
+      },
+      "id": 77
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.459599,
+          -12.9829519
+        ]
+      },
+      "properties": {
+        "nome": "A Casa Vidal",
+        "tipo": "restaurant,"
+      },
+      "id": 78
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4579367,
+          -12.983765
+        ]
+      },
+      "properties": {
+        "nome": "Essence in home",
+        "tipo": "interior_decoration,"
+      },
+      "id": 79
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.458057,
+          -12.9836543
+        ]
+      },
+      "properties": {
+        "nome": "Líder",
+        "tipo": "furniture,"
+      },
+      "id": 80
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.458819,
+          -12.982898
+        ]
+      },
+      "properties": {
+        "nome": "Bagdá",
+        "tipo": "interior_decoration,"
+      },
+      "id": 81
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.458825,
+          -12.9827689
+        ]
+      },
+      "properties": {
+        "nome": "Kachepot",
+        "tipo": "interior_decoration,"
+      },
+      "id": 82
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4588029,
+          -12.9824091
+        ]
+      },
+      "properties": {
+        "nome": "Espaço Conceito",
+        "tipo": "mall,"
+      },
+      "id": 83
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4587775,
+          -12.9831495
+        ]
+      },
+      "properties": {
+        "nome": "Disal Livraria",
+        "tipo": "books,"
+      },
+      "id": 84
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4586511,
+          -12.9833582
+        ]
+      },
+      "properties": {
+        "nome": "Empório Magma",
+        "tipo": "interior_decoration,"
+      },
+      "id": 85
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4582735,
+          -12.9838298
+        ]
+      },
+      "properties": {
+        "nome": "Natuzzi Italia",
+        "tipo": "furniture,"
+      },
+      "id": 86
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4578924,
+          -12.9790345
+        ]
+      },
+      "properties": {
+        "nome": "Barbacoa",
+        "tipo": "restaurant,"
+      },
+      "id": 87
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4592519,
+          -12.9823603
+        ]
+      },
+      "properties": {
+        "nome": "Instituto de Medicina Eficiente",
+        "tipo": "clinic,"
+      },
+      "id": 88
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4588221,
+          -12.981767
+        ]
+      },
+      "properties": {
+        "nome": "Bikatto Acabamentos",
+        "tipo": "flooring,"
+      },
+      "id": 89
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4554536,
+          -12.978241
+        ]
+      },
+      "properties": {
+        "nome": "Tok&Stok Studio",
+        "tipo": "furniture,"
+      },
+      "id": 90
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4556338,
+          -12.9777324
+        ]
+      },
+      "properties": {
+        "nome": "Viva Gula",
+        "tipo": "cafe,"
+      },
+      "id": 91
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4536265,
+          -12.9790082
+        ]
+      },
+      "properties": {
+        "nome": "Mariposa",
+        "tipo": "restaurant,"
+      },
+      "id": 92
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4524441,
+          -12.979839
+        ]
+      },
+      "properties": {
+        "nome": "Café do Chef",
+        "tipo": "cafe,"
+      },
+      "id": 93
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4605313,
+          -12.9789165
+        ]
+      },
+      "properties": {
+        "nome": "Subway",
+        "tipo": "fast_food,"
+      },
+      "id": 94
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4544467,
+          -12.978747
+        ]
+      },
+      "properties": {
+        "nome": "Bio Mundo",
+        "tipo": "health_food,"
+      },
+      "id": 95
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4544218,
+          -12.9782934
+        ]
+      },
+      "properties": {
+        "nome": "Leitura",
+        "tipo": "books,"
+      },
+      "id": 96
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4540296,
+          -12.981325
+        ]
+      },
+      "properties": {
+        "nome": "Beetools",
+        "tipo": "language_school,"
+      },
+      "id": 97
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4540015,
+          -12.9819037
+        ]
+      },
+      "properties": {
+        "nome": "Gráfica Registro",
+        "tipo": "copyshop,"
+      },
+      "id": 98
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4539403,
+          -12.9818531
+        ]
+      },
+      "properties": {
+        "nome": "Terraço",
+        "tipo": "restaurant,"
+      },
+      "id": 99
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4560062,
+          -12.9776536
+        ]
+      },
+      "properties": {
+        "nome": "Healthy por Victoria Cintra",
+        "tipo": "cafe,"
+      },
+      "id": 100
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4555736,
+          -12.9783418
+        ]
+      },
+      "properties": {
+        "nome": "Labor Câmbio",
+        "tipo": "bureau_de_change,"
+      },
+      "id": 101
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4536078,
+          -12.9786327
+        ]
+      },
+      "properties": {
+        "nome": "Madero",
+        "tipo": "restaurant,"
+      },
+      "id": 102
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.453746,
+          -12.9785127
+        ]
+      },
+      "properties": {
+        "nome": "Spoleto",
+        "tipo": "fast_food,"
+      },
+      "id": 103
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4534527,
+          -12.9786737
+        ]
+      },
+      "properties": {
+        "nome": "Oliva Gourmet",
+        "tipo": "restaurant,"
+      },
+      "id": 104
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4532673,
+          -12.9788577
+        ]
+      },
+      "properties": {
+        "nome": "Tokai",
+        "tipo": "restaurant,"
+      },
+      "id": 105
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4558162,
+          -12.9776388
+        ]
+      },
+      "properties": {
+        "nome": "Óticas Carol",
+        "tipo": "optician,"
+      },
+      "id": 106
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4547845,
+          -12.97847
+        ]
+      },
+      "properties": {
+        "nome": "Chilli Beans",
+        "tipo": "fashion_accessories,"
+      },
+      "id": 107
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4561465,
+          -12.9775344
+        ]
+      },
+      "properties": {
+        "nome": "Urban Music",
+        "tipo": "musical_instrument,"
+      },
+      "id": 108
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.454916,
+          -12.9783945
+        ]
+      },
+      "properties": {
+        "nome": "L'Occitane",
+        "tipo": "cosmetics,"
+      },
+      "id": 109
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4546091,
+          -12.9786211
+        ]
+      },
+      "properties": {
+        "nome": "Adidas",
+        "tipo": "sports,"
+      },
+      "id": 110
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.455506,
+          -12.9779082
+        ]
+      },
+      "properties": {
+        "nome": "Havaianas",
+        "tipo": "shoes,"
+      },
+      "id": 111
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4524317,
+          -12.9793505
+        ]
+      },
+      "properties": {
+        "nome": "Clínica Oral Imagem",
+        "tipo": "clinic,"
+      },
+      "id": 112
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.455278,
+          -12.9776741
+        ]
+      },
+      "properties": {
+        "nome": "Natura",
+        "tipo": "cosmetics,"
+      },
+      "id": 113
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4532463,
+          -12.9791561
+        ]
+      },
+      "properties": {
+        "nome": "C&A",
+        "tipo": "clothes,"
+      },
+      "id": 114
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4598542,
+          -12.9790131
+        ]
+      },
+      "properties": {
+        "nome": "Sicoob",
+        "tipo": "bank,"
+      },
+      "id": 115
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.453438,
+          -12.9791526
+        ]
+      },
+      "properties": {
+        "nome": "Ortobom",
+        "tipo": "bed,"
+      },
+      "id": 116
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4541547,
+          -12.9785843
+        ]
+      },
+      "properties": {
+        "nome": "Lupo",
+        "tipo": "clothes,"
+      },
+      "id": 117
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4536792,
+          -12.9787195
+        ]
+      },
+      "properties": {
+        "nome": "Marisa",
+        "tipo": "clothes,"
+      },
+      "id": 118
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4539717,
+          -12.9794047
+        ]
+      },
+      "properties": {
+        "nome": "iPlace",
+        "tipo": "mobile_phone,"
+      },
+      "id": 119
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4549166,
+          -12.9785406
+        ]
+      },
+      "properties": {
+        "nome": "Xiaomi",
+        "tipo": "mobile_phone,"
+      },
+      "id": 120
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4551696,
+          -12.978359
+        ]
+      },
+      "properties": {
+        "nome": "Lindt",
+        "tipo": "chocolate,"
+      },
+      "id": 121
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4545271,
+          -12.9781935
+        ]
+      },
+      "properties": {
+        "nome": "Meu Chapa",
+        "tipo": "restaurant,"
+      },
+      "id": 122
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4561282,
+          -12.9777621
+        ]
+      },
+      "properties": {
+        "nome": "Adidas Originals",
+        "tipo": "clothes,"
+      },
+      "id": 123
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.455822,
+          -12.9772594
+        ]
+      },
+      "properties": {
+        "nome": "Avatim",
+        "tipo": "cosmetics,"
+      },
+      "id": 124
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4559685,
+          -12.9782098
+        ]
+      },
+      "properties": {
+        "nome": "Hering Kids",
+        "tipo": "clothes,"
+      },
+      "id": 125
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4531424,
+          -12.9789799
+        ]
+      },
+      "properties": {
+        "nome": "Santa Lolla",
+        "tipo": "shoes,"
+      },
+      "id": 126
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4535939,
+          -12.9797347
+        ]
+      },
+      "properties": {
+        "nome": "Decathlon",
+        "tipo": "sports,"
+      },
+      "id": 127
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4562937,
+          -12.9777333
+        ]
+      },
+      "properties": {
+        "nome": "Freitas Varejo",
+        "tipo": "department_store,"
+      },
+      "id": 128
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4559234,
+          -12.977506
+        ]
+      },
+      "properties": {
+        "nome": "Crocs",
+        "tipo": "shoes,"
+      },
+      "id": 129
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4563924,
+          -12.9777662
+        ]
+      },
+      "properties": {
+        "nome": "Studio Z",
+        "tipo": "clothes,"
+      },
+      "id": 130
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4538416,
+          -12.9795163
+        ]
+      },
+      "properties": {
+        "nome": "Baby Beef Burger",
+        "tipo": "fast_food,"
+      },
+      "id": 131
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4536845,
+          -12.9793893
+        ]
+      },
+      "properties": {
+        "nome": "Divino Fogão",
+        "tipo": "restaurant,"
+      },
+      "id": 132
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4543484,
+          -12.9790493
+        ]
+      },
+      "properties": {
+        "nome": "Espaçolaser",
+        "tipo": "beauty,"
+      },
+      "id": 133
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4551634,
+          -12.9787278
+        ]
+      },
+      "properties": {
+        "nome": "Calvin Klein",
+        "tipo": "clothes,"
+      },
+      "id": 134
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4549395,
+          -12.9788619
+        ]
+      },
+      "properties": {
+        "nome": "Lacoste",
+        "tipo": "clothes,"
+      },
+      "id": 135
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4555491,
+          -12.9784939
+        ]
+      },
+      "properties": {
+        "nome": "Armani Exchange",
+        "tipo": "clothes,"
+      },
+      "id": 136
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4553522,
+          -12.9784151
+        ]
+      },
+      "properties": {
+        "nome": "Vivo",
+        "tipo": "mobile_phone,"
+      },
+      "id": 137
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4550986,
+          -12.978486
+        ]
+      },
+      "properties": {
+        "nome": "TIM",
+        "tipo": "mobile_phone,"
+      },
+      "id": 138
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4556908,
+          -12.9774582
+        ]
+      },
+      "properties": {
+        "nome": "Depyl Care",
+        "tipo": "beauty,"
+      },
+      "id": 139
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4553229,
+          -12.9777726
+        ]
+      },
+      "properties": {
+        "nome": "Track&Field",
+        "tipo": "clothes,"
+      },
+      "id": 140
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4544516,
+          -12.9788982
+        ]
+      },
+      "properties": {
+        "nome": "Live!",
+        "tipo": "clothes,"
+      },
+      "id": 141
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4546683,
+          -12.978431
+        ]
+      },
+      "properties": {
+        "nome": "Bacio di Latte",
+        "tipo": "ice_cream,"
+      },
+      "id": 142
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4540739,
+          -12.9787556
+        ]
+      },
+      "properties": {
+        "nome": "Café Feito a Grão",
+        "tipo": "cafe,"
+      },
+      "id": 143
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4619203,
+          -12.9806159
+        ]
+      },
+      "properties": {
+        "nome": "Café 638",
+        "tipo": "cafe,"
+      },
+      "id": 144
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4590891,
+          -12.9816206
+        ]
+      },
+      "properties": {
+        "nome": "Na Selva",
+        "tipo": "community_centre,"
+      },
+      "id": 145
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4592021,
+          -12.9816831
+        ]
+      },
+      "properties": {
+        "nome": "Costa Tropical",
+        "tipo": "clothes,"
+      },
+      "id": 146
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4575919,
+          -12.9793279
+        ]
+      },
+      "properties": {
+        "nome": "Urban Sushi",
+        "tipo": "restaurant,"
+      },
+      "id": 147
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4537958,
+          -12.9787563
+        ]
+      },
+      "properties": {
+        "nome": "Artex",
+        "tipo": "household_linen,"
+      },
+      "id": 148
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4551151,
+          -12.9780185
+        ]
+      },
+      "properties": {
+        "nome": "Swarovski",
+        "tipo": "jewelry,"
+      },
+      "id": 149
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.45401,
+          -12.9785569
+        ]
+      },
+      "properties": {
+        "nome": "Via Veneto",
+        "tipo": "clothes,"
+      },
+      "id": 150
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4544839,
+          -12.9785988
+        ]
+      },
+      "properties": {
+        "nome": "Brooksfield",
+        "tipo": "clothes,"
+      },
+      "id": 151
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4540297,
+          -12.9785953
+        ]
+      },
+      "properties": {
+        "nome": "Sergio's",
+        "tipo": "shoes,"
+      },
+      "id": 152
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4541352,
+          -12.9784629
+        ]
+      },
+      "properties": {
+        "nome": "Esmaltale",
+        "tipo": "beauty,"
+      },
+      "id": 153
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4552816,
+          -12.978071
+        ]
+      },
+      "properties": {
+        "nome": "Cantina Volpi",
+        "tipo": "restaurant,"
+      },
+      "id": 154
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.453984,
+          -12.9791437
+        ]
+      },
+      "properties": {
+        "nome": "Dengo",
+        "tipo": "chocolate,"
+      },
+      "id": 155
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4550116,
+          -12.9790511
+        ]
+      },
+      "properties": {
+        "nome": "Beiju Mix",
+        "tipo": "fast_food,"
+      },
+      "id": 156
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4555014,
+          -12.9775207
+        ]
+      },
+      "properties": {
+        "nome": "Mahogany",
+        "tipo": "cosmetics,"
+      },
+      "id": 157
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4556624,
+          -12.9781349
+        ]
+      },
+      "properties": {
+        "nome": "Depyl Action",
+        "tipo": "beauty,"
+      },
+      "id": 158
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4556945,
+          -12.978344
+        ]
+      },
+      "properties": {
+        "nome": "MMartan",
+        "tipo": "household_linen,"
+      },
+      "id": 159
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4545472,
+          -12.9787118
+        ]
+      },
+      "properties": {
+        "nome": "Cazolita",
+        "tipo": "fast_food,"
+      },
+      "id": 160
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4547127,
+          -12.978731
+        ]
+      },
+      "properties": {
+        "nome": "MadeiraMadeira",
+        "tipo": "furniture,"
+      },
+      "id": 161
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4547998,
+          -12.978569
+        ]
+      },
+      "properties": {
+        "nome": "Óticas Pupila",
+        "tipo": "optician,"
+      },
+      "id": 162
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4550816,
+          -12.9778611
+        ]
+      },
+      "properties": {
+        "nome": "Oakberry Açaí bowls",
+        "tipo": "fast_food,"
+      },
+      "id": 163
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4546962,
+          -12.9781213
+        ]
+      },
+      "properties": {
+        "nome": "Ray-Ban",
+        "tipo": "optician,"
+      },
+      "id": 164
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.455725,
+          -12.9778988
+        ]
+      },
+      "properties": {
+        "nome": "Hope",
+        "tipo": "clothes,"
+      },
+      "id": 165
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4547829,
+          -12.9777086
+        ]
+      },
+      "properties": {
+        "nome": "33",
+        "tipo": "restaurant,"
+      },
+      "id": 166
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4546549,
+          -12.977961
+        ]
+      },
+      "properties": {
+        "nome": "Camarada",
+        "tipo": "restaurant,"
+      },
+      "id": 167
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4579305,
+          -12.9822537
+        ]
+      },
+      "properties": {
+        "nome": "Vai Vinho",
+        "tipo": "wine,"
+      },
+      "id": 168
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4580173,
+          -12.9822798
+        ]
+      },
+      "properties": {
+        "nome": "Fira",
+        "tipo": "restaurant,"
+      },
+      "id": 169
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4584558,
+          -12.9825729
+        ]
+      },
+      "properties": {
+        "nome": "Florense",
+        "tipo": "furniture,"
+      },
+      "id": 170
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4578722,
+          -12.9825819
+        ]
+      },
+      "properties": {
+        "nome": "Keiko Cabeleireiros",
+        "tipo": "hairdresser,"
+      },
+      "id": 171
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4547497,
+          -12.9782081
+        ]
+      },
+      "properties": {
+        "nome": "Caracol",
+        "tipo": "chocolate,"
+      },
+      "id": 172
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4538786,
+          -12.98103
+        ]
+      },
+      "properties": {
+        "nome": "Seven Wonders Café",
+        "tipo": "cafe,"
+      },
+      "id": 173
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4604784,
+          -12.9789732
+        ]
+      },
+      "properties": {
+        "nome": "Caza - cozinha de afeto",
+        "tipo": "restaurant,"
+      },
+      "id": 174
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4606701,
+          -12.9789861
+        ]
+      },
+      "properties": {
+        "nome": "atm",
+        "tipo": "clothes,"
+      },
+      "id": 175
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4606397,
+          -12.9790546
+        ]
+      },
+      "properties": {
+        "nome": "Nova Solução Digital",
+        "tipo": "copyshop,"
+      },
+      "id": 176
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4606008,
+          -12.9791388
+        ]
+      },
+      "properties": {
+        "nome": "ivini",
+        "tipo": "wine,"
+      },
+      "id": 177
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4604024,
+          -12.9788474
+        ]
+      },
+      "properties": {
+        "nome": "Na Brasa Express",
+        "tipo": "restaurant,"
+      },
+      "id": 178
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4608704,
+          -12.9789898
+        ]
+      },
+      "properties": {
+        "nome": "Seven Wonders Café",
+        "tipo": "cafe,"
+      },
+      "id": 179
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4605011,
+          -12.9788326
+        ]
+      },
+      "properties": {
+        "nome": "Kyoto Sushi",
+        "tipo": "restaurant,"
+      },
+      "id": 180
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4604214,
+          -12.9790407
+        ]
+      },
+      "properties": {
+        "nome": "Neko Neko",
+        "tipo": "restaurant,"
+      },
+      "id": 181
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4602705,
+          -12.9787762
+        ]
+      },
+      "properties": {
+        "nome": "Central do Dente",
+        "tipo": "dentist,"
+      },
+      "id": 182
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4606283,
+          -12.9788909
+        ]
+      },
+      "properties": {
+        "nome": "koalas",
+        "tipo": "cafe,"
+      },
+      "id": 183
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4609691,
+          -12.9790962
+        ]
+      },
+      "properties": {
+        "nome": "Óticas Carol",
+        "tipo": "optician,"
+      },
+      "id": 184
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4608428,
+          -12.9791314
+        ]
+      },
+      "properties": {
+        "nome": "Mundo da Sorte",
+        "tipo": "lottery,"
+      },
+      "id": 185
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4609784,
+          -12.9792519
+        ]
+      },
+      "properties": {
+        "nome": "Tivoli Café",
+        "tipo": "cafe,"
+      },
+      "id": 186
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.461095,
+          -12.9792175
+        ]
+      },
+      "properties": {
+        "nome": "Caixa Econômica Federal",
+        "tipo": "bank,"
+      },
+      "id": 187
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.461178,
+          -12.9793552
+        ]
+      },
+      "properties": {
+        "nome": "Café São Diogo",
+        "tipo": "cafe,"
+      },
+      "id": 188
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4613105,
+          -12.9794068
+        ]
+      },
+      "properties": {
+        "nome": "Cacau Show",
+        "tipo": "chocolate,"
+      },
+      "id": 189
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4610437,
+          -12.9794877
+        ]
+      },
+      "properties": {
+        "nome": "Óticas Pupila",
+        "tipo": "optician,"
+      },
+      "id": 190
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4612699,
+          -12.9792192
+        ]
+      },
+      "properties": {
+        "nome": "Delli",
+        "tipo": "convenience,"
+      },
+      "id": 191
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4611533,
+          -12.9791107
+        ]
+      },
+      "properties": {
+        "nome": "Cosechas",
+        "tipo": "fast_food,"
+      },
+      "id": 192
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4609483,
+          -12.9788887
+        ]
+      },
+      "properties": {
+        "nome": "Oshi",
+        "tipo": "restaurant,"
+      },
+      "id": 193
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.46083,
+          -12.9786614
+        ]
+      },
+      "properties": {
+        "nome": "Espaçolaser",
+        "tipo": "beauty,"
+      },
+      "id": 194
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4617461,
+          -12.9788986
+        ]
+      },
+      "properties": {
+        "nome": "Mozzafiato Café",
+        "tipo": "cafe,"
+      },
+      "id": 195
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4611665,
+          -12.9795179
+        ]
+      },
+      "properties": {
+        "nome": "Amoraterra",
+        "tipo": "health_food,"
+      },
+      "id": 196
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4551565,
+          -12.9815652
+        ]
+      },
+      "properties": {
+        "nome": "Mais1 Café",
+        "tipo": "cafe,"
+      },
+      "id": 197
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4532903,
+          -12.9839384
+        ]
+      },
+      "properties": {
+        "nome": "Sicredi",
+        "tipo": "bank,"
+      },
+      "id": 198
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4511031,
+          -12.9802413
+        ]
+      },
+      "properties": {
+        "nome": "FTD Educação",
+        "tipo": "bookmaker,"
+      },
+      "id": 199
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4538376,
+          -12.9793225
+        ]
+      },
+      "properties": {
+        "nome": "Casa Esportiva",
+        "tipo": "sports,"
+      },
+      "id": 200
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.454219,
+          -12.9816666
+        ]
+      },
+      "properties": {
+        "nome": "Da Horta",
+        "tipo": "restaurant,"
+      },
+      "id": 201
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4543959,
+          -12.9781668
+        ]
+      },
+      "properties": {
+        "nome": "Seven Wonders Café",
+        "tipo": "cafe,"
+      },
+      "id": 202
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4514369,
+          -12.9802038
+        ]
+      },
+      "properties": {
+        "nome": "DuckBill Cookies & Coffee",
+        "tipo": "cafe,"
+      },
+      "id": 203
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4517152,
+          -12.9792299
+        ]
+      },
+      "properties": {
+        "nome": "Fiori",
+        "tipo": "car,"
+      },
+      "id": 204
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4515655,
+          -12.9793238
+        ]
+      },
+      "properties": {
+        "nome": "Bremen",
+        "tipo": "car,"
+      },
+      "id": 205
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4498016,
+          -12.9818087
+        ]
+      },
+      "properties": {
+        "nome": "Vovó Dalva",
+        "tipo": "cafe,"
+      },
+      "id": 206
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4548527,
+          -12.9790661
+        ]
+      },
+      "properties": {
+        "nome": "Outback Steakhouse",
+        "tipo": "restaurant,"
+      },
+      "id": 207
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4542912,
+          -12.9823234
+        ]
+      },
+      "properties": {
+        "nome": "Banco Santander",
+        "tipo": "bank,"
+      },
+      "id": 208
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.451399,
+          -12.9795169
+        ]
+      },
+      "properties": {
+        "nome": "Só Sabor",
+        "tipo": "restaurant,"
+      },
+      "id": 209
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4514105,
+          -12.9794517
+        ]
+      },
+      "properties": {
+        "nome": "BB Cred",
+        "tipo": "money_lender,"
+      },
+      "id": 210
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4504465,
+          -12.9806364
+        ]
+      },
+      "properties": {
+        "nome": "Mandacaru",
+        "tipo": "clothes,"
+      },
+      "id": 211
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4550649,
+          -12.9788543
+        ]
+      },
+      "properties": {
+        "nome": "Contém Churros",
+        "tipo": "fast_food,"
+      },
+      "id": 212
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4558952,
+          -12.9776773
+        ]
+      },
+      "properties": {
+        "nome": "Coxa Coxinha",
+        "tipo": "fast_food,"
+      },
+      "id": 213
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.455147,
+          -12.9829714
+        ]
+      },
+      "properties": {
+        "nome": "Clínica Gestar Psi",
+        "tipo": "clinic,"
+      },
+      "id": 214
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4548027,
+          -12.9780177
+        ]
+      },
+      "properties": {
+        "nome": "Amaro",
+        "tipo": "clothes,"
+      },
+      "id": 215
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4610194,
+          -12.9793758
+        ]
+      },
+      "properties": {
+        "nome": "Clínica Osmilto Brandão",
+        "tipo": "clinic,"
+      },
+      "id": 216
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4543245,
+          -12.9786131
+        ]
+      },
+      "properties": {
+        "nome": "Healthy Salad Bar",
+        "tipo": "restaurant,"
+      },
+      "id": 217
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4603415,
+          -12.9790139
+        ]
+      },
+      "properties": {
+        "nome": "Napoli",
+        "tipo": "restaurant,"
+      },
+      "id": 218
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4554693,
+          -12.9784651
+        ]
+      },
+      "properties": {
+        "nome": "Calzedonia",
+        "tipo": "clothes,"
+      },
+      "id": 219
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.459164,
+          -12.9822473
+        ]
+      },
+      "properties": {
+        "nome": "Track&Field",
+        "tipo": "clothes,"
+      },
+      "id": 220
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4561168,
+          -12.977629
+        ]
+      },
+      "properties": {
+        "nome": "Moncloa",
+        "tipo": "tea,"
+      },
+      "id": 221
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4547382,
+          -12.9779906
+        ]
+      },
+      "properties": {
+        "nome": "Vivara",
+        "tipo": "jewelry,"
+      },
+      "id": 222
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4558885,
+          -12.9779099
+        ]
+      },
+      "properties": {
+        "nome": "Life Vivara",
+        "tipo": "jewelry,"
+      },
+      "id": 223
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4587937,
+          -12.9825361
+        ]
+      },
+      "properties": {
+        "nome": "Loja Elettromec Salvador",
+        "tipo": "supermarket,"
+      },
+      "id": 224
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4533325,
+          -12.9793009
+        ]
+      },
+      "properties": {
+        "nome": "Havanna",
+        "tipo": "cafe,"
+      },
+      "id": 225
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4543543,
+          -12.9787839
+        ]
+      },
+      "properties": {
+        "nome": "Casa Graviola",
+        "tipo": "restaurant,"
+      },
+      "id": 226
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4538978,
+          -12.9835854
+        ]
+      },
+      "properties": {
+        "nome": "A Burguesa - Roupas cristãs",
+        "tipo": "clothes,"
+      },
+      "id": 227
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4548697,
+          -12.9782319
+        ]
+      },
+      "properties": {
+        "nome": "Melissa",
+        "tipo": "shoes,"
+      },
+      "id": 228
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.455034,
+          -12.9782784
+        ]
+      },
+      "properties": {
+        "nome": "Luz da Lua",
+        "tipo": "shoes,"
+      },
+      "id": 229
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4550985,
+          -12.9786062
+        ]
+      },
+      "properties": {
+        "nome": "Amo Vacinas",
+        "tipo": "clinic,"
+      },
+      "id": 230
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4547546,
+          -12.9782886
+        ]
+      },
+      "properties": {
+        "nome": "Clivale",
+        "tipo": "clinic,"
+      },
+      "id": 231
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4557279,
+          -12.9784452
+        ]
+      },
+      "properties": {
+        "nome": "Colcci",
+        "tipo": "clothes,"
+      },
+      "id": 232
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4543384,
+          -12.9789086
+        ]
+      },
+      "properties": {
+        "nome": "Constance",
+        "tipo": "shoes,"
+      },
+      "id": 233
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4543846,
+          -12.9791548
+        ]
+      },
+      "properties": {
+        "nome": "Damyller",
+        "tipo": "clothes,"
+      },
+      "id": 234
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4540426,
+          -12.9788813
+        ]
+      },
+      "properties": {
+        "nome": "CVC",
+        "tipo": "travel_agency,"
+      },
+      "id": 235
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.460375,
+          -12.9837976
+        ]
+      },
+      "properties": {
+        "nome": "Track&Field",
+        "tipo": "clothes,"
+      },
+      "id": 236
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4587381,
+          -12.9808402
+        ]
+      },
+      "properties": {
+        "nome": "Pague Menos",
+        "tipo": "pharmacy,"
+      },
+      "id": 237
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4559657,
+          -12.9779761
+        ]
+      },
+      "properties": {
+        "nome": "Loja do Bahia",
+        "tipo": "sports,"
+      },
+      "id": 238
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4559674,
+          -12.9773188
+        ]
+      },
+      "properties": {
+        "nome": "Amávia",
+        "tipo": "cosmetics,"
+      },
+      "id": 239
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.45235,
+          -12.979217
+        ]
+      },
+      "properties": {
+        "nome": "PASSO DE ESTRADA LTDA",
+        "tipo": "travel_agency,"
+      },
+      "id": 240
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4535872,
+          -12.9791314
+        ]
+      },
+      "properties": {
+        "nome": "Gelato Borelli",
+        "tipo": "ice_cream,"
+      },
+      "id": 241
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4563968,
+          -12.9837155
+        ]
+      },
+      "properties": {
+        "nome": "Escola Casa da Infância",
+        "tipo": "kindergarten,"
+      },
+      "id": 242
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4550968,
+          -12.9793111
+        ]
+      },
+      "properties": {
+        "nome": "Salvador Shopping",
+        "tipo": "bicycle_rental,"
+      },
+      "id": 243
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4548943,
+          -12.978687
+        ]
+      },
+      "properties": {
+        "nome": "Lotti",
+        "tipo": "restaurant,"
+      },
+      "id": 244
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4535514,
+          -12.9792485
+        ]
+      },
+      "properties": {
+        "nome": "Zerezes",
+        "tipo": "optician,"
+      },
+      "id": 245
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4526837,
+          -12.9821915
+        ]
+      },
+      "properties": {
+        "nome": "Toca do Cobra",
+        "tipo": "bar,"
+      },
+      "id": 246
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4543206,
+          -12.9788078
+        ]
+      },
+      "properties": {
+        "nome": "Casa de Bolos",
+        "tipo": "pastry,"
+      },
+      "id": 247
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4545076,
+          -12.9789676
+        ]
+      },
+      "properties": {
+        "nome": "Ótica Chilli Beans",
+        "tipo": "optician,"
+      },
+      "id": 248
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4543593,
+          -12.9792149
+        ]
+      },
+      "properties": {
+        "nome": "Hoka",
+        "tipo": "sports,"
+      },
+      "id": 249
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4541883,
+          -12.9792156
+        ]
+      },
+      "properties": {
+        "nome": "Puma",
+        "tipo": "clothes,"
+      },
+      "id": 250
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4549188,
+          -12.9787425
+        ]
+      },
+      "properties": {
+        "nome": "Empório Coisas de Minas",
+        "tipo": "cafe,"
+      },
+      "id": 251
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4548725,
+          -12.9785975
+        ]
+      },
+      "properties": {
+        "nome": "Miss Kōh",
+        "tipo": "restaurant,"
+      },
+      "id": 252
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4540577,
+          -12.9818853
+        ]
+      },
+      "properties": {
+        "nome": "Hilda Barbosa Massoterapia",
+        "tipo": "massage,"
+      },
+      "id": 253
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4586146,
+          -12.9784401
+        ]
+      },
+      "properties": {
+        "nome": "Barberstyle",
+        "tipo": "hairdresser,"
+      },
+      "id": 254
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4523131,
+          -12.9792277
+        ]
+      },
+      "properties": {
+        "nome": "Consultorio Dr Giovanni Nascimento",
+        "tipo": "dentist,"
+      },
+      "id": 255
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4583654,
+          -12.982193
+        ]
+      },
+      "properties": {
+        "nome": "Healthy por Victoria Cintra",
+        "tipo": "cafe,"
+      },
+      "id": 256
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4612287,
+          -12.9784487
+        ]
+      },
+      "properties": {
+        "nome": "Metrô Rodoviária",
+        "tipo": "bicycle_rental,"
+      },
+      "id": 257
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4517399,
+          -12.9791333
+        ]
+      },
+      "properties": {
+        "nome": "Hospital Sarah",
+        "tipo": "bicycle_rental,"
+      },
+      "id": 258
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.459333,
+          -12.9771341
+        ]
+      },
+      "properties": {
+        "nome": "Bikatto",
+        "tipo": "hardware,"
+      },
+      "id": 259
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4591277,
+          -12.9775522
+        ]
+      },
+      "properties": {
+        "nome": "O Varejão",
+        "tipo": "car_parts,"
+      },
+      "id": 260
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.4615943,
+          -12.978826
+        ]
+      },
+      "properties": {
+        "nome": "Banco Safra",
+        "tipo": "bank,"
+      },
+      "id": 261
+    }
+  ]
+}
