@@ -1,0 +1,262 @@
+-38.4552197, -12.9823399, post_office, Correios
+-38.4562718, -12.9801633, theatre, Teatro Casa do Comércio
+-38.4564012, -12.9801933, restaurant, Restaurante Casa do Comércio
+-38.4511997, -12.9828769, car, Fiori
+-38.4541865, -12.9787335, sports, Centauro
+-38.4545027, -12.9780646, cinema, Cinemark
+-38.4497793, -12.9816263, convenience, BR Mania
+-38.4545717, -12.9826972, fast_food, Império dos Lanches
+-38.4511108, -12.9796373, bank, Bradesco
+-38.4547944, -12.9786897, fast_food, Subway
+-38.4560429, -12.9772290, clothes, Renner
+-38.4534944, -12.9795434, department_store, Lojas Americanas
+-38.4554685, -12.9777869, department_store, Le Biscuit
+-38.4551574, -12.9782678, fast_food, McDonald's
+-38.4542830, -12.9783567, fast_food, Bob's
+-38.4534634, -12.9792710, houseware, Preçolandia
+-38.4535643, -12.9838271, bank, Banco Santander
+-38.4512300, -12.9795582, restaurant, Haus
+-38.4606441, -12.9786778, restaurant, Malagheta
+-38.4550283, -12.9823920, pharmacy, Farmácia Sumaré
+-38.4573256, -12.9794381, copyshop, Universitária
+-38.4510443, -12.9827068, furniture, Depósito de Sofá
+-38.4539084, -12.9825202, restaurant, Maria's
+-38.4538348, -12.9837519, bank, Bradesco
+-38.4542595, -12.9817159, stationery, Atlas Papelaria
+-38.4569290, -12.9796396, dentist, Clean 24h
+-38.4558934, -12.9808670, bank, Banco Santander
+-38.4534689, -12.9839093, car_rental, Localiza
+-38.4545997, -12.9788926, appliance, Magazine Luiza
+-38.4557183, -12.9773046, supermarket, Redemix
+-38.4556692, -12.9825272, parking, Central Park
+-38.4551913, -12.9828351, cafe, Seven Wonders Café
+-38.4551198, -12.9828431, clinic, Clínica José Amandio
+-38.4561159, -12.9779921, cafe, Nero Café
+-38.4534203, -12.9790245, cafe, Chez Café
+-38.4536965, -12.9788389, cafe, Clube do Café
+-38.4545368, -12.9783823, cafe, Pereira Café
+-38.4561839, -12.9778669, tea, Tea Shop
+-38.4552361, -12.9785384, health_food, Orgânico
+-38.4543054, -12.9785384, restaurant, Alecrim
+-38.4539165, -12.9786560, restaurant, Farid
+-38.4539487, -12.9787631, restaurant, Sal e Brasa
+-38.4538789, -12.9789226, restaurant, La Lupa
+-38.4547587, -12.9788954, department_store, Casas Bahia
+-38.4542566, -12.9788720, houseware, Camicado
+-38.4555497, -12.9780945, mobile_phone, VXCase
+-38.4549616, -12.9780443, restaurant, Orgânico
+-38.4558385, -12.9783090, clothes, Hering
+-38.4558041, -12.9780577, clothes, Malwee
+-38.4541225, -12.9791233, bureau_de_change, Confidence Câmbio
+-38.4537188, -12.9792297, bank, Banco do Brasil
+-38.4556722, -12.9771688, atm, Banco24Horas
+-38.4559851, -12.9778390, houseware, T Store
+-38.4555668, -12.9774141, electronics, Polishop
+-38.4549981, -12.9781473, coffee, Nespresso
+-38.4551563, -12.9778256, department_store, Fast Shop
+-38.4556584, -12.9775776, perfumery, O Boticário
+-38.4591999, -12.9831917, childcare, Pindorama
+-38.4535154, -12.9788392, bank, Caixa Econômica Federal
+-38.4552799, -12.9779085, clothes, Farm
+-38.4557887, -12.9774578, pharmacy, Drogaria São Paulo
+-38.4540853, -12.9792977, pharmacy, Pague Menos
+-38.4552365, -12.9782265, fast_food, Joy Pizza
+-38.4587637, -12.9821088, clinic, Itaigara Memorial
+-38.4524922, -12.9794370, dentist, Gruppo Orale
+-38.4583440, -12.9828863, interior_decoration, Tinelli Outdoor Living
+-38.4585777, -12.9834609, dentist, Odonto Daily
+-38.4578690, -12.9838622, shoes, Santa Lolla
+-38.4544229, -12.9784288, shoes, Dinni Calçados
+-38.4558932, -12.9772619, cafe, Casa Bauducco
+-38.4536821, -12.9836239, copyshop, Gráfica Universitária
+-38.4538382, -12.9820065, clinic, Mente & Phisio
+-38.4554056, -12.9776495, clothes, Mahalo
+-38.4562646, -12.9780002, toys, BMart
+-38.4560680, -12.9781271, toys, Ri Happy
+-38.4539784, -12.9835788, clinic, Clínica Osmilto Brandão
+-38.4590932, -12.9820576, computer, Login
+-38.4596965, -12.9831350, community_centre, Brinkaê
+-38.4595990, -12.9829519, restaurant, A Casa Vidal
+-38.4579367, -12.9837650, interior_decoration, Essence in home
+-38.4580570, -12.9836543, furniture, Líder
+-38.4588190, -12.9828980, interior_decoration, Bagdá
+-38.4588250, -12.9827689, interior_decoration, Kachepot
+-38.4588029, -12.9824091, mall, Espaço Conceito
+-38.4587775, -12.9831495, books, Disal Livraria
+-38.4586511, -12.9833582, interior_decoration, Empório Magma
+-38.4582735, -12.9838298, furniture, Natuzzi Italia
+-38.4578924, -12.9790345, restaurant, Barbacoa
+-38.4592519, -12.9823603, clinic, Instituto de Medicina Eficiente
+-38.4588221, -12.9817670, flooring, Bikatto Acabamentos
+-38.4554536, -12.9782410, furniture, Tok&Stok Studio
+-38.4556338, -12.9777324, cafe, Viva Gula
+-38.4536265, -12.9790082, restaurant, Mariposa
+-38.4524441, -12.9798390, cafe, Café do Chef
+-38.4605313, -12.9789165, fast_food, Subway
+-38.4544467, -12.9787470, health_food, Bio Mundo
+-38.4544218, -12.9782934, books, Leitura
+-38.4540296, -12.9813250, language_school, Beetools
+-38.4540015, -12.9819037, copyshop, Gráfica Registro
+-38.4539403, -12.9818531, restaurant, Terraço
+-38.4560062, -12.9776536, cafe, Healthy por Victoria Cintra
+-38.4555736, -12.9783418, bureau_de_change, Labor Câmbio
+-38.4536078, -12.9786327, restaurant, Madero
+-38.4537460, -12.9785127, fast_food, Spoleto
+-38.4534527, -12.9786737, restaurant, Oliva Gourmet
+-38.4532673, -12.9788577, restaurant, Tokai
+-38.4558162, -12.9776388, optician, Óticas Carol
+-38.4547845, -12.9784700, fashion_accessories, Chilli Beans
+-38.4561465, -12.9775344, musical_instrument, Urban Music
+-38.4549160, -12.9783945, cosmetics, L'Occitane
+-38.4546091, -12.9786211, sports, Adidas
+-38.4555060, -12.9779082, shoes, Havaianas
+-38.4524317, -12.9793505, clinic, Clínica Oral Imagem
+-38.4552780, -12.9776741, cosmetics, Natura
+-38.4532463, -12.9791561, clothes, C&A
+-38.4598542, -12.9790131, bank, Sicoob
+-38.4534380, -12.9791526, bed, Ortobom
+-38.4541547, -12.9785843, clothes, Lupo
+-38.4536792, -12.9787195, clothes, Marisa
+-38.4539717, -12.9794047, mobile_phone, iPlace
+-38.4549166, -12.9785406, mobile_phone, Xiaomi
+-38.4551696, -12.9783590, chocolate, Lindt
+-38.4545271, -12.9781935, restaurant, Meu Chapa
+-38.4561282, -12.9777621, clothes, Adidas Originals
+-38.4558220, -12.9772594, cosmetics, Avatim
+-38.4559685, -12.9782098, clothes, Hering Kids
+-38.4531424, -12.9789799, shoes, Santa Lolla
+-38.4535939, -12.9797347, sports, Decathlon
+-38.4562937, -12.9777333, department_store, Freitas Varejo
+-38.4559234, -12.9775060, shoes, Crocs
+-38.4563924, -12.9777662, clothes, Studio Z
+-38.4538416, -12.9795163, fast_food, Baby Beef Burger
+-38.4536845, -12.9793893, restaurant, Divino Fogão
+-38.4543484, -12.9790493, beauty, Espaçolaser
+-38.4551634, -12.9787278, clothes, Calvin Klein
+-38.4549395, -12.9788619, clothes, Lacoste
+-38.4555491, -12.9784939, clothes, Armani Exchange
+-38.4553522, -12.9784151, mobile_phone, Vivo
+-38.4550986, -12.9784860, mobile_phone, TIM
+-38.4556908, -12.9774582, beauty, Depyl Care
+-38.4553229, -12.9777726, clothes, Track&Field
+-38.4544516, -12.9788982, clothes, Live!
+-38.4546683, -12.9784310, ice_cream, Bacio di Latte
+-38.4540739, -12.9787556, cafe, Café Feito a Grão
+-38.4619203, -12.9806159, cafe, Café 638
+-38.4590891, -12.9816206, community_centre, Na Selva
+-38.4592021, -12.9816831, clothes, Costa Tropical
+-38.4575919, -12.9793279, restaurant, Urban Sushi
+-38.4537958, -12.9787563, household_linen, Artex
+-38.4551151, -12.9780185, jewelry, Swarovski
+-38.4540100, -12.9785569, clothes, Via Veneto
+-38.4544839, -12.9785988, clothes, Brooksfield
+-38.4540297, -12.9785953, shoes, Sergio's
+-38.4541352, -12.9784629, beauty, Esmaltale
+-38.4552816, -12.9780710, restaurant, Cantina Volpi
+-38.4539840, -12.9791437, chocolate, Dengo
+-38.4550116, -12.9790511, fast_food, Beiju Mix
+-38.4555014, -12.9775207, cosmetics, Mahogany
+-38.4556624, -12.9781349, beauty, Depyl Action
+-38.4556945, -12.9783440, household_linen, MMartan
+-38.4545472, -12.9787118, fast_food, Cazolita
+-38.4547127, -12.9787310, furniture, MadeiraMadeira
+-38.4547998, -12.9785690, optician, Óticas Pupila
+-38.4550816, -12.9778611, fast_food, Oakberry Açaí bowls
+-38.4546962, -12.9781213, optician, Ray-Ban
+-38.4557250, -12.9778988, clothes, Hope
+-38.4547829, -12.9777086, restaurant, 33
+-38.4546549, -12.9779610, restaurant, Camarada
+-38.4579305, -12.9822537, wine, Vai Vinho
+-38.4580173, -12.9822798, restaurant, Fira
+-38.4584558, -12.9825729, furniture, Florense
+-38.4578722, -12.9825819, hairdresser, Keiko Cabeleireiros
+-38.4547497, -12.9782081, chocolate, Caracol
+-38.4538786, -12.9810300, cafe, Seven Wonders Café
+-38.4604784, -12.9789732, restaurant, Caza - cozinha de afeto
+-38.4606701, -12.9789861, clothes, atm
+-38.4606397, -12.9790546, copyshop, Nova Solução Digital
+-38.4606008, -12.9791388, wine, ivini
+-38.4604024, -12.9788474, restaurant, Na Brasa Express
+-38.4608704, -12.9789898, cafe, Seven Wonders Café
+-38.4605011, -12.9788326, restaurant, Kyoto Sushi
+-38.4604214, -12.9790407, restaurant, Neko Neko
+-38.4602705, -12.9787762, dentist, Central do Dente
+-38.4606283, -12.9788909, cafe, koalas
+-38.4609691, -12.9790962, optician, Óticas Carol
+-38.4608428, -12.9791314, lottery, Mundo da Sorte
+-38.4609784, -12.9792519, cafe, Tivoli Café
+-38.4610950, -12.9792175, bank, Caixa Econômica Federal
+-38.4611780, -12.9793552, cafe, Café São Diogo
+-38.4613105, -12.9794068, chocolate, Cacau Show
+-38.4610437, -12.9794877, optician, Óticas Pupila
+-38.4612699, -12.9792192, convenience, Delli
+-38.4611533, -12.9791107, fast_food, Cosechas
+-38.4609483, -12.9788887, restaurant, Oshi
+-38.4608300, -12.9786614, beauty, Espaçolaser
+-38.4617461, -12.9788986, cafe, Mozzafiato Café
+-38.4611665, -12.9795179, health_food, Amoraterra
+-38.4551565, -12.9815652, cafe, Mais1 Café
+-38.4532903, -12.9839384, bank, Sicredi
+-38.4511031, -12.9802413, bookmaker, FTD Educação
+-38.4538376, -12.9793225, sports, Casa Esportiva
+-38.4542190, -12.9816666, restaurant, Da Horta
+-38.4543959, -12.9781668, cafe, Seven Wonders Café
+-38.4514369, -12.9802038, cafe, DuckBill Cookies & Coffee
+-38.4517152, -12.9792299, car, Fiori
+-38.4515655, -12.9793238, car, Bremen
+-38.4498016, -12.9818087, cafe, Vovó Dalva
+-38.4548527, -12.9790661, restaurant, Outback Steakhouse
+-38.4542912, -12.9823234, bank, Banco Santander
+-38.4513990, -12.9795169, restaurant, Só Sabor
+-38.4514105, -12.9794517, money_lender, BB Cred
+-38.4504465, -12.9806364, clothes, Mandacaru
+-38.4550649, -12.9788543, fast_food, Contém Churros
+-38.4558952, -12.9776773, fast_food, Coxa Coxinha
+-38.4551470, -12.9829714, clinic, Clínica Gestar Psi
+-38.4548027, -12.9780177, clothes, Amaro
+-38.4610194, -12.9793758, clinic, Clínica Osmilto Brandão
+-38.4543245, -12.9786131, restaurant, Healthy Salad Bar
+-38.4603415, -12.9790139, restaurant, Napoli
+-38.4554693, -12.9784651, clothes, Calzedonia
+-38.4591640, -12.9822473, clothes, Track&Field
+-38.4561168, -12.9776290, tea, Moncloa
+-38.4547382, -12.9779906, jewelry, Vivara
+-38.4558885, -12.9779099, jewelry, Life Vivara
+-38.4587937, -12.9825361, supermarket, Loja Elettromec Salvador
+-38.4533325, -12.9793009, cafe, Havanna
+-38.4543543, -12.9787839, restaurant, Casa Graviola
+-38.4538978, -12.9835854, clothes, A Burguesa - Roupas cristãs
+-38.4548697, -12.9782319, shoes, Melissa
+-38.4550340, -12.9782784, shoes, Luz da Lua
+-38.4550985, -12.9786062, clinic, Amo Vacinas
+-38.4547546, -12.9782886, clinic, Clivale
+-38.4557279, -12.9784452, clothes, Colcci
+-38.4543384, -12.9789086, shoes, Constance
+-38.4543846, -12.9791548, clothes, Damyller
+-38.4540426, -12.9788813, travel_agency, CVC
+-38.4603750, -12.9837976, clothes, Track&Field
+-38.4587381, -12.9808402, pharmacy, Pague Menos
+-38.4559657, -12.9779761, sports, Loja do Bahia
+-38.4559674, -12.9773188, cosmetics, Amávia
+-38.4523500, -12.9792170, travel_agency, PASSO DE ESTRADA LTDA
+-38.4535872, -12.9791314, ice_cream, Gelato Borelli
+-38.4563968, -12.9837155, kindergarten, Escola Casa da Infância
+-38.4550968, -12.9793111, bicycle_rental, Salvador Shopping
+-38.4548943, -12.9786870, restaurant, Lotti
+-38.4535514, -12.9792485, optician, Zerezes
+-38.4526837, -12.9821915, bar, Toca do Cobra
+-38.4543206, -12.9788078, pastry, Casa de Bolos
+-38.4545076, -12.9789676, optician, Ótica Chilli Beans
+-38.4543593, -12.9792149, sports, Hoka
+-38.4541883, -12.9792156, clothes, Puma
+-38.4549188, -12.9787425, cafe, Empório Coisas de Minas
+-38.4548725, -12.9785975, restaurant, Miss Kōh
+-38.4540577, -12.9818853, massage, Hilda Barbosa Massoterapia
+-38.4586146, -12.9784401, hairdresser, Barberstyle
+-38.4523131, -12.9792277, dentist, Consultorio Dr Giovanni Nascimento
+-38.4583654, -12.9821930, cafe, Healthy por Victoria Cintra
+-38.4612287, -12.9784487, bicycle_rental, Metrô Rodoviária
+-38.4517399, -12.9791333, bicycle_rental, Hospital Sarah
+-38.4593330, -12.9771341, hardware, Bikatto
+-38.4591277, -12.9775522, car_parts, O Varejão
+-38.4615943, -12.9788260, bank, Banco Safra
