@@ -1,0 +1,8 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h2>Área Restrita</h2>
+    <p>Bem-vindo ao seu perfil, <strong>{{ user }}</strong>!</p>
+    
+    <a href="{{ url_for('logout') }}">Sair (Fazer Logout)</a>
+{% endblock %}

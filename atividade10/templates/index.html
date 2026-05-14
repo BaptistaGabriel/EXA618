@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    {% if name %}
+        <h1>Olá, {{ name }}!</h1>
+    {% else %}
+        <h1>Olá, Visitante!</h1>
+    {% endif %}
+    <p>Você já acessou esta página <strong>{{ visits }}</strong> vezes.</p>
+
+    <hr>
+    <h3>Testar Cookie de Nome:</h3>
+    <p>Acesse <code>/name/SeuNome</code> na URL para salvar seu nome.</p>
+{% endblock %}
